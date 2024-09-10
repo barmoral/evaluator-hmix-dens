@@ -5,5 +5,6 @@ TIP3P/*
 TIP3P_FB/*
 TIP4P/*
 TIP4P_FB/*
+test_500_longer/*
 *.dcd
 *.nc
