@@ -8,3 +8,6 @@ TIP4P_FB/*
 test_500_longer/*
 *.dcd
 *.nc
+test_500_rep*/*
+test_1000_rep*/*
+test_1000long*/*
